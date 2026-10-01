@@ -1,0 +1,6 @@
+{
+  "name": "CareerPilot AI",
+  "description": "AI Job Application Copilot featuring Career Profile, Job Match Engine, ResumeFit Score, and Application CRM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
